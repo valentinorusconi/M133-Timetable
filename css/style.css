@@ -1,0 +1,14 @@
+table {
+  border: solid 1px;
+}
+
+th {
+  text-align: center !important;
+}
+
+/*
+.table-responsive
+{
+    overflow-x: auto;
+}
+*/
